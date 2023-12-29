@@ -1,4 +1,4 @@
-## İ'm Beginner Frontend Developer
+# Привет, я начинающий веб-разработчик
 
 ### Languages:
 <div>
@@ -9,5 +9,11 @@
 
 ### Socials:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ndiuky)
-[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&logoColor=2965F1)](https://vk.com/id812075543)
+<div id="badges">
+    <a href="https://t.me/ndiuky" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+    <a href="https://vk.com/id812075543" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>
+    </a>
+</div>
